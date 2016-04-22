@@ -6,7 +6,7 @@ An extension of UINavigationBar to set customized background color,The codes are
 
 #How to use
 Only one line code needed, as below:
-[code] self.navigationController?.navigationBar.setCustomBackgroundColor(color) [/code]
+<pre>[code] self.navigationController?.navigationBar.setCustomBackgroundColor(color) [/code]</pre>
 
 #Author
 AiguangLi / Arguing.Li@gmail.com
